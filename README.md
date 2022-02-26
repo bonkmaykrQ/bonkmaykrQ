@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cool people:  
+- [Wirlaburla](https://github.com/Wirlaburla), does Worlds.com stuff. Runs [Worlio.com](https://worlio.com/about).
+- [Admer](https://github.com/Admer456), idTech, GoldSrc and Source modding
+- [ninjamuffin](https://github.com/ninjamuffin99), web game dev & FOSS advocate; made Friday Night Funkin
+- [Caine](https://github.com/Warfork), making a fan continuation of the Quake III Arena clone "Warsow"
+- [Kisak](https://github.com/kisak-valve), Valve employee that maintains Proton, a part of Steam on Linux
+- [Tropix](https://github.com/Tropix126), BetterDiscord theme maintainer
