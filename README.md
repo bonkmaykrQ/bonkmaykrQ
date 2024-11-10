@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonkmaykrq&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+I only really use this account as a mirror and for creating new issues.
+My projects are at https://git.worlio.com/bonkmaykr/
