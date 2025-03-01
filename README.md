@@ -23,7 +23,7 @@ A: Change your password every month and don't make it a name, a common word, or 
 Q: If I pray to God, will he listen?  
 A: You can waste his time telling him what to do, or you can just get off his back and let him program.
 
-Q: Some people claim they hear the voice of God. Is this true? 
+Q: Some people claim they hear the voice of God. Is this true?  
 A: They are much more likely to receive email.
 
 Q: Does God control everything that happens in my life?  
