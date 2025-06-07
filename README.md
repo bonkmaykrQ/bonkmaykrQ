@@ -1,6 +1,8 @@
 I only really use this account as a mirror and for creating new issues.  
 My new projects are at https://git.worlio.com/bonkmaykr/
 
+No I'm not Christian. I just find the below quote funny.
+
 Q: Did God really create the world in seven days?  
 A: He did it in six days and nights while living on cola and
 candy bars. On the seventh day he went home and found out his girlfriend had left him.
