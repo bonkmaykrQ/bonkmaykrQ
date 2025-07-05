@@ -1,5 +1,8 @@
 I only really use this account as a mirror and for creating new issues.  
-My new projects are at https://git.worlio.com/bonkmaykr/
+My new projects are at https://git.worlio.com/bonkmaykr/  
+Microsoft can kiss my huge sweet swamp ass. Fuck Bill. Fuck Satya. Fuck Steve. Fuck David. And Fuck Whoever Else.
+
+----
 
 No I'm not Christian. I just find the below quote funny.
 
